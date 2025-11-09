@@ -83,7 +83,8 @@
 
   <nav>
     <a href="#" onclick="mostrar('descripcion')">Descripción</a>
-    <a href="#" onclick="mostrar('software')">Software</a>
+    <a href="#" onclick="mostrar('softwa![logo_english_kids png](https://github.com/user-attachments/assets/7ea8fc66-c934-4c05-824b-354bdf65b07a)
+re')">Software</a>
     <a href="#" onclick="mostrar('producto')">Producto</a> <a href="#" onclick="mostrar('mision_vision_valores')">Nosotros</a>
     <a href="#" onclick="mostrar('objetivos')">Objetivos</a>
     <a href="#" onclick="mostrar('ventajas')">Ventajas</a>
